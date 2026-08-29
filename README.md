@@ -34,9 +34,3 @@ The client Kali VM:
 
 ## Tech stack
 Snort 2.9.x, NFQUEUE, libnetfilter-queue, Flask, Chart.js, VirtualBox
-
-
-
-## Documentation
-- [IPS_Project_Documentation.pdf](https://github.com/user-attachments/files/31599250/IPS_Project_Documentation.pdf)
-- [IPS_Presentation_v3.pptx (1).pdf](https://github.com/user-attachments/files/31599262/IPS_Presentation_v3.pptx.1.pdf)
